@@ -1,3 +1,11 @@
-## [0.0.1] - TODO: Add release date.
+## [1.0.0] - First release.
 
-* TODO: Describe initial release.
+* First release of the package.
+
+## [1.0.1] - First release.
+
+* First release of the package.
+
+## [1.0.2] - First release.
+
+* First release of the package.

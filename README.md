@@ -46,8 +46,8 @@ Generates:
 ```
 dev
 └───test
-│   │   account.svg
-│   │   arrow_left.svg
+│   │   auto_painter.dart
+│   │   icon_generated.dart
 ```
 
 Generated icon_generated.dart:

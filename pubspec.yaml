@@ -1,16 +1,16 @@
 name: svg_to_paint
 description: svg_to_paint generates dart code from a svg file. Given an xml file you can draw its simply by typing a command.
-version: 1.0.7
+version: 1.0.8
 homepage: https://github.com/FrancescoCatani/svg_to_paint_dart
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
   path: ^1.6.4
-  crypto: ^2.1.4
+  crypto: ^3.0.0
 
 dev_dependencies:
   flutter_test:

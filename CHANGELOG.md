@@ -29,3 +29,7 @@
 ## [1.0.7] - Second release.
 
 * Improvements, test implementation and example file.
+
+## [1.0.8] - Third release.
+
+* Null Safety Support.

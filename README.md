@@ -53,7 +53,7 @@ dev
 Generated icon_generated.dart:
 
 ```dart
-// GENERATED CODE - DO NOT MODIFY BY HAND
+// GENERATED CODE
 
 import 'auto_painter.dart'; 
 

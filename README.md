@@ -1,12 +1,12 @@
 <p align="center">
-<img src="./doc/svg_to_paint_logo.png" height="300" alt="Flutter Bloc Package" />
+<img src="https://github.com/FrancescoCatani/svg_to_paint_dart/blob/master/doc/svg_to_paint_logo.png?raw=true" height="300" alt="Flutter Svg to Paint Package" />
 </p>
 
 <p align="center">
-<a href="https://img.shields.io/pub/v/svg_to_paint"><img src="https://img.shields.io/pub/v/svg_to_paint" alt="Pub"></a>
-<a href="https://img.shields.io/website?up_color=blue&up_message=Flutter&url=https%3A%2F%2Fflutter.dev"><img src="https://img.shields.io/website?up_color=blue&up_message=Flutter&url=https%3A%2F%2Fflutter.dev" alt="Flutter Website"></a>
-<a href="https://img.shields.io/website?up_color=orange&up_message=NodeJs&url=https%3A%2F%2Fnodejs.org%2Fit%2F"><img src="https://img.shields.io/website?up_color=blue&up_message=NodeJs&url=https%3A%2F%2Fnodejs.org%2Fit%2F" alt="NodeJs Website"></a>
-<a href="https://img.shields.io/github/stars/FrancescoCatani/svg_to_paint_dart"><img src="https://img.shields.io/github/stars/FrancescoCatani/svg_to_paint_dart?color=green" alt="Star on Github"></a>
+<a href="https://pub.dev/packages/svg_to_paint"><img src="https://img.shields.io/pub/v/svg_to_paint" alt="Pub"></a>
+<a href="https://flutter.dev"><img src="https://img.shields.io/website?up_color=blue&up_message=Flutter&url=https%3A%2F%2Fflutter.dev" alt="Flutter Website"></a>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/website?up_color=blue&up_message=NodeJs&url=https%3A%2F%2Fnodejs.org%2Fit%2F" alt="NodeJs Website"></a>
+<a href="https://github.com/FrancescoCatani/svg_to_paint_dart/stargazers"><img src="https://img.shields.io/github/stars/FrancescoCatani/svg_to_paint_dart?color=green" alt="Star on Github"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-purple.svg" alt="License: MIT"></a>
 </p>
 

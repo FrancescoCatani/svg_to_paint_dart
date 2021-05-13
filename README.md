@@ -10,8 +10,11 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-purple.svg" alt="License: MIT"></a>
 </p>
 
+---
 
 svg_to_paint generates dart code from a svg file. This package is an abstraction of NodeJs package svg_to_paint.
+
+---
 
 ## Requirements 
 

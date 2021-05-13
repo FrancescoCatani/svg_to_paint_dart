@@ -1,4 +1,16 @@
-# svg_to_paint
+<p align="center">
+<img src="./doc/svg_to_paint_logo.png" height="300" alt="Flutter Bloc Package" />
+</p>
+
+<p align="center">
+<a href="https://img.shields.io/pub/v/svg_to_paint"><img src="https://img.shields.io/pub/v/svg_to_paint" alt="Pub"></a>
+
+<a href="https://img.shields.io/website?up_color=blue&up_message=Flutter&url=https%3A%2F%2Fflutter.dev"><img src="https://img.shields.io/website?up_color=blue&up_message=Flutter&url=https%3A%2F%2Fflutter.dev" alt="Flutter Website"></a>
+<a href="https://img.shields.io/website?up_color=orange&up_message=NodeJs&url=https%3A%2F%2Fnodejs.org%2Fit%2F"><img src="https://img.shields.io/website?up_color=blue&up_message=NodeJs&url=https%3A%2F%2Fnodejs.org%2Fit%2F" alt="NodeJs Website"></a>
+<a href="https://img.shields.io/github/stars/FrancescoCatani/svg_to_paint_dart"><img src="https://img.shields.io/github/stars/FrancescoCatani/svg_to_paint_dart?color=green" alt="Star on Github"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-purple.svg" alt="License: MIT"></a>
+</p>
+
 
 svg_to_paint generates dart code from a svg file. This package is an abstraction of NodeJs package svg_to_paint.
 
@@ -6,15 +18,15 @@ svg_to_paint generates dart code from a svg file. This package is an abstraction
 
 Node.JS v10+
 
-## Install: 
+## Install
 
 ```bash
-$ pub global activate svg_to_paint
+$ flutter pub global activate svg_to_paint
 ```
 
 ## Usage
 
-1) Convert your xml svg in vector drawable (for example in https://svg2vector.com).
+1) Convert your xml svg in vector drawable (for example in https://svg2vector.com)
 
 2) Type in terminal:
 
@@ -22,7 +34,7 @@ $ pub global activate svg_to_paint
 svg_to_paint source_file_path destination_path name_file command
 ```
 
-## Params:
+## Params
 
 \* - required
 
@@ -32,7 +44,7 @@ svg_to_paint source_file_path destination_path name_file command
 
 - `name_file` * - is the name of your file, for example (icon)
 
-- `command` * - represents the coordinates type of svg. You can choose be absolute or relative. 
+- `command` * - represents the coordinates type of svg. You can choose absolute or relative. 
 
 ## Example
 

@@ -33,3 +33,11 @@
 ## [1.0.8] - Third release.
 
 * Null Safety Support.
+
+# 1.0.8-nullsafety.0
+
+* Null Safety Support
+
+# 1.0.9-nullsafety.0
+
+* Null Safety Support

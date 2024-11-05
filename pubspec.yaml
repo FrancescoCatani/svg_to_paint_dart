@@ -17,6 +17,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+executables:
+  svg_to_paint:
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
